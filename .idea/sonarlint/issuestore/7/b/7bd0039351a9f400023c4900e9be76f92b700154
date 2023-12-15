@@ -1,0 +1,28 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œßËË
+Z
+java:S2095="DUse try-with-resources or close this "Update" in a "finally" clause.(ÇõÙ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(œßËË
+M
+java:S1874"2Remove this use of "withHeader"; it is deprecated.(…†Ïëúÿÿÿÿ
+U
+java:S6213-":Rename this variable to not match a restricted identifier.(ê¯Ò÷şÿÿÿÿ
+9
+java:S1128"Remove this duplicated import.(Ë‘…Óüÿÿÿÿ
+4
+java:S1128"Remove this duplicated import.(˜Ğ€Á
+4
+java:S1128	"Remove this duplicated import.(Ô°µ½
+4
+java:S1128"Remove this duplicated import.(†Ğ¥Å
+9
+java:S1128"Remove this duplicated import.(Â¡¢äşÿÿÿÿ
+9
+java:S1128"Remove this duplicated import.(ªº»Úıÿÿÿÿ
+9
+java:S1128"Remove this duplicated import.(›‘¬èıÿÿÿÿ
+4
+java:S1128"Remove this duplicated import.(‰÷÷ª
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

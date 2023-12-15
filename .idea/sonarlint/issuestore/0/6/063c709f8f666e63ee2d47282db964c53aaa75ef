@@ -1,0 +1,63 @@
+
+q
+java:S1192"SDefine a constant instead of duplicating this literal "SHOW TABLES LIKE '" 4 times.(¢ÎçÖ8ªïõ¿Æ1
+
+java:S1192‘"\Define a constant instead of duplicating this literal "CREATE TABLE IF NOT EXISTS " 4 times.(‚õüÿÿÿÿÿ8ªïõ¿Æ1
+ˆ
+java:S1192’"eDefine a constant instead of duplicating this literal "`id` INT PRIMARY KEY AUTO_INCREMENT," 3 times.(Óâè¬ıÿÿÿÿ8ªïõ¿Æ1
+n	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âéáï8ªïõ¿Æ1
+s	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îûîÉûÿÿÿÿ8ªïõ¿Æ1
+n	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹æ›¿8ªïõ¿Æ1
+s	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Â¥‡ıÿÿÿÿ8ªïõ¿Æ1
+s	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µİŞ§ÿÿÿÿÿ8ªïõ¿Æ1
+s	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µËÂÁøÿÿÿÿ8ªïõ¿Æ1
+n	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¼ğ“8ªïõ¿Æ1
+a
+java:S2095 "DUse try-with-resources or close this "Update" in a "finally" clause.(ÇõÙ8Üïõ¿Æ1
+f
+java:S2095;"DUse try-with-resources or close this "Update" in a "finally" clause.(İÿ‚²ÿÿÿÿÿ8Üïõ¿Æ1
+f
+java:S2095Ë"CUse try-with-resources or close this "Query" in a "finally" clause.(çÍ¬÷øÿÿÿÿ8Üïõ¿Æ1
+b
+java:S2095ô"DUse try-with-resources or close this "Update" in a "finally" clause.(çÔÓ„8Üïõ¿Æ1
+b
+java:S2095Ò"DUse try-with-resources or close this "Update" in a "finally" clause.(çÔÓ„8Üïõ¿Æ1
+f
+java:S2095U"DUse try-with-resources or close this "Update" in a "finally" clause.(İÿ‚²ÿÿÿÿÿ8Üïõ¿Æ1
+f
+java:S2095‹"CUse try-with-resources or close this "Query" in a "finally" clause.(åË—úÿÿÿÿ8Üïõ¿Æ1
+f
+java:S2095í"CUse try-with-resources or close this "Query" in a "finally" clause.(çÍ¬÷øÿÿÿÿ8Üïõ¿Æ1
+a
+java:S2095{"DUse try-with-resources or close this "Update" in a "finally" clause.(ÇõÙ8Üïõ¿Æ1
+f
+java:S2095µ"CUse try-with-resources or close this "Query" in a "finally" clause.(çÍ¬÷øÿÿÿÿ8Üïõ¿Æ1
+f
+java:S2095 "CUse try-with-resources or close this "Query" in a "finally" clause.(çÍ¬÷øÿÿÿÿ8Üïõ¿Æ1
+b
+java:S2095¼"DUse try-with-resources or close this "Update" in a "finally" clause.(çÔÓ„8Üïõ¿Æ1
+`
+java:S2095"CUse try-with-resources or close this "Query" in a "finally" clause.(ÂÏ„Å8Üïõ¿Æ1
+b
+java:S2095§"DUse try-with-resources or close this "Update" in a "finally" clause.(çÔÓ„8Üïõ¿Æ1
+f
+java:S2095™"CUse try-with-resources or close this "Query" in a "finally" clause.(åË—úÿÿÿÿ8Üïõ¿Æ1
+f
+java:S2095û"CUse try-with-resources or close this "Query" in a "finally" clause.(¶ÕÜÙıÿÿÿÿ8Üïõ¿Æ1
+M
+java:S1874"0Remove this use of "findOnly"; it is deprecated.(èé—È8áïõ¿Æ1
+G	java:S106."+Replace this use of System.out by a logger.(§îÚô8ãïõ¿Æ1
+G	java:S1061"+Replace this use of System.out by a logger.(¶·Ç³8ãïõ¿Æ1
+F	java:S106D"+Replace this use of System.out by a logger.(·Òçs8äïõ¿Æ1
+G	java:S106F"+Replace this use of System.out by a logger.(æê“‰8äïõ¿Æ1
+L	java:S106["+Replace this use of System.out by a logger.(ÇìÕ¶ıÿÿÿÿ8æïõ¿Æ1
+G	java:S106b"+Replace this use of System.out by a logger.(æê“‰8æïõ¿Æ1
+H	java:S106‰"+Replace this use of System.out by a logger.(Ãé¨¶8èïõ¿Æ1
+U
+java:S1481æ"2Remove this unused "stagingResult" local variable.(´åíúÿÿÿÿ8ñïõ¿Æ1
+d
+java:S1144­"FRemove this unused private "createTableIfNotExistsForProvince" method.(Î¨ 8õïõ¿Æ1
+e
+java:S1144Á"BRemove this unused private "createTableIfNotExistsForDate" method.(„­÷’øÿÿÿÿ8õïõ¿Æ1
+^
+java:S1144×";Remove this unused private "createTableIfNotExists" method.(Œ«£ÿûÿÿÿÿ8õïõ¿Æ1

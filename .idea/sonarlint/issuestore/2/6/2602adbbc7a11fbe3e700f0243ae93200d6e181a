@@ -1,0 +1,14 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éİŸ•8ŸÛ¿ŞÆ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÔª8ŸÛ¿ŞÆ1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»„8ŸÛ¿ŞÆ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷ºğŞ8 Û¿ŞÆ1
+a
+java:S2095-"DUse try-with-resources or close this "Update" in a "finally" clause.(ÇõÙ8¬Û¿ŞÆ1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(éİŸ•8­Û¿ŞÆ1
+O
+java:S1874"2Remove this use of "withHeader"; it is deprecated.(Ê‹£Ô8¯Û¿ŞÆ1
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»„8°Û¿ŞÆ1
+\
+java:S6213 ":Rename this variable to not match a restricted identifier.(ê¯Ò÷şÿÿÿÿ8°Û¿ŞÆ1

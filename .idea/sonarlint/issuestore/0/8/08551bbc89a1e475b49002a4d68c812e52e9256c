@@ -1,0 +1,30 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¥¾“8™×½ŞÆ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°šŠ÷ÿÿÿÿÿ8™×½ŞÆ1
+a
+java:S2095H"DUse try-with-resources or close this "Update" in a "finally" clause.(ÇõÙ8©×½ŞÆ1
+^	java:S107?"=Method has 12 parameters, which is greater than 7 authorized.(†¯ñÌùÿÿÿÿ8«×½ŞÆ1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ú¥¾“8«×½ŞÆ1
+T
+java:S1874"2Remove this use of "withHeader"; it is deprecated.(…†Ïëúÿÿÿÿ8®×½ŞÆ1
+\
+java:S6213-":Rename this variable to not match a restricted identifier.(ê¯Ò÷şÿÿÿÿ8¯×½ŞÆ1
+@
+java:S1128"Remove this duplicated import.(Ë‘…Óüÿÿÿÿ8²×½ŞÆ1
+;
+java:S1128"Remove this duplicated import.(˜Ğ€Á8²×½ŞÆ1
+;
+java:S1128	"Remove this duplicated import.(Ô°µ½8²×½ŞÆ1
+;
+java:S1128"Remove this duplicated import.(†Ğ¥Å8²×½ŞÆ1
+@
+java:S1128"Remove this duplicated import.(Â¡¢äşÿÿÿÿ8²×½ŞÆ1
+@
+java:S1128"Remove this duplicated import.(ªº»Úıÿÿÿÿ8²×½ŞÆ1
+@
+java:S1128"Remove this duplicated import.(›‘¬èıÿÿÿÿ8²×½ŞÆ1
+;
+java:S1128"Remove this duplicated import.(‰÷÷ª8²×½ŞÆ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8²×½ŞÆ1

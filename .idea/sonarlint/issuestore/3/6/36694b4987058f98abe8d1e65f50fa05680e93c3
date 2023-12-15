@@ -1,0 +1,12 @@
+
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±–£¿ùÿÿÿÿ
+m	java:S116"XRename this field "special_prize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÄŞâ
+l	java:S116"WRename this field "eighth_prize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Äæï
+m	java:S116"XRename this field "seventh_prize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Šå©
+k	java:S116"VRename this field "sixth_prize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘§²Œ
+p	java:S116"VRename this field "fifth_prize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾õïúÿÿÿÿ
+q	java:S116"WRename this field "fourth_prize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÿŒûÿÿÿÿ
+p	java:S116"VRename this field "third_prize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ôî¨ÿÿÿÿÿ
+q	java:S116"WRename this field "second_prize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í»øÅşÿÿÿÿ
+k	java:S116"VRename this field "first_prize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ø³¤
